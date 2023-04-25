@@ -6,7 +6,7 @@ apt install redis wget git  -y
 
 mkdir -p /data && cd /data
 
-git clone --depth=1 https://github.com/zuoyekuqidexin/proxy/main/proxy && cd proxy
+git clone --depth=1 https://github.com/zuoyekuqidexin/proxy/proxy && cd proxy
 
 chmod +x /data/proxy/proxy
 
