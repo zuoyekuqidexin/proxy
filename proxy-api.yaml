@@ -1,0 +1,14 @@
+Name: proxy-api
+Host: 0.0.0.0
+Port: 8888
+Timeout: 333000
+MaxBytes: 83888608
+SleepCount: 1800
+ProxyType: 2
+usernamer:
+password: ""
+SmartApi: ""
+Redis:
+    Host: 127.0.0.1:6379
+    Pass: ""
+    Type: node
