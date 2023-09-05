@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -L https://mirrors.host900.com/https://raw.githubusercontent.com/snail007/goproxy/master/install_auto.sh | bash
+curl -L https://raw.githubusercontent.com/snail007/goproxy/master/install_auto.sh | bash
 
 apt install redis wget git  -y
 
